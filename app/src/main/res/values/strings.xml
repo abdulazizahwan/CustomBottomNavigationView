@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CustomBottomNavigationView</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_search">Search</string>
+    <string name="menu_like">Like</string>
+    <string name="menu_profile">Profile</string>
+</resources>
